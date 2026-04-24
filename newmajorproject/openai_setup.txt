@@ -1,0 +1,12 @@
+# OpenAI Configuration
+# Get your API key from: https://platform.openai.com/api-keys
+# Set the environment variable or replace 'your_openai_api_key_here' in simple_backend.py
+
+# To set environment variable (Windows):
+# set OPENAI_API_KEY=your_actual_api_key_here
+
+# To set environment variable (Linux/Mac):
+# export OPENAI_API_KEY=your_actual_api_key_here
+
+# Or edit simple_backend.py line ~15:
+# openai.api_key = os.getenv('OPENAI_API_KEY', 'your_actual_api_key_here')

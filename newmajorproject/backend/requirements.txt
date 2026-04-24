@@ -1,0 +1,5 @@
+flask==2.3.3
+pymongo==4.3.3
+feedparser==6.0.10
+google-api-python-client==2.95.0
+requests==2.31.0
